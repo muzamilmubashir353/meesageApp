@@ -1,0 +1,12 @@
+[programs.localnet]
+messengerapp = "Egu5BzFKiUsj62w2Up8UwWUXhExQmWcGbF7TNJvPoczg"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "/Users/muzamil/.config/solana/id.json"
+
+[scripts]
+test = "mocha -t 1000000 tests/"
