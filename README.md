@@ -1,8 +1,8 @@
-# meesageApp
+
 Solana Add Data in array using Anchor
 
-**Steps to Run this project:
-**
+Steps to Run this project:
+
 1- solana config set --url localhost
 2- solana-test-validator
 3- anchor build
